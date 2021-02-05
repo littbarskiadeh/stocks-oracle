@@ -18,6 +18,7 @@ class App extends Component {
         const contractInstance = new web3.eth.Contract(ABI,CONTRACT_ADDRESS)
         
         // Set the stock values
+        // convert the symbol text to Hex
         const symbol = web3.utils.utf8ToHex("ABC");
         const price = 100;
         const volume = 200000;
