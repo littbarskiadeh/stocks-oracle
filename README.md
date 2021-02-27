@@ -1,4 +1,4 @@
-# My First Oracle for a Solidity Smart Contract
+# Oracle for a Solidity Smart Contract
 
 React App to interact with Ethereum testnet using Injected Web3 provider (ganache-cli and Metamask) 
 
